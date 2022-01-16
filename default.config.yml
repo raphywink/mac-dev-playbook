@@ -33,6 +33,7 @@ dotfiles_files:
   - .inputrc
   - .osx
   - .vimrc
+  - .hammerspoon
 
 homebrew_installed_packages:
   # - ansible # Installed via Pip.
@@ -81,6 +82,7 @@ homebrew_cask_apps:
   - handbrake
   - iterm2
   - licecap
+  - mactex
   - sequel-ace
   - signal
   - slack
